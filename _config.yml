@@ -1,3 +1,8 @@
+# Configurations
+title:            Learning Rust and Algorithms
+longtitle:        Learning Rust and Algorithms
+
+remote_theme:     sighingnow/jekyll-gitbook
 remote_theme: sighingnow/jekyll-gitbook
 toc:
     enabled: true
